@@ -1,7 +1,9 @@
 # OpcUaClientWrapper
-wrapper that contains simple opc ua client calls :
+C# wrapper that contains simple OPC UA client calls:
  - connect
  - disconnect
  - read
- - write 
-it uses the UA-.NETStandard repository at: https://github.com/OPCFoundation/UA-.NETStandard
+ - write
+ 
+To make the code easier. 
+It uses the UA-.NETStandard repository at: https://github.com/OPCFoundation/UA-.NETStandard
